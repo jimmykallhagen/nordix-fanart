@@ -61,7 +61,7 @@ exiftool -r -overwrite_original \
 
 ---
 
-# 3. - **Add a LICENSE.md to your fanart repository**
+## 3. - **Add a LICENSE.md to your fanart repository**
 - [**Example**](nordix-fanart/LICENSE.md)
 
 ---
