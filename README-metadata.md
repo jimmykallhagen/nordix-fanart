@@ -78,7 +78,7 @@ You may **not** use the artwork commercially, such as:
 
 ---
 
-## 5. - Show metadata
+## 5. - **Show metadata**
 
 **IPTC and XMP format**
 ```bash
