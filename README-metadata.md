@@ -61,7 +61,12 @@ exiftool -r -overwrite_original \
 
 ---
 
-## 3. - **The license "CC-BY-NC-4.0"**
+# 3. - **Add a LICENSE.md to your fanart repository**
+- [**Example**](nordix-fanart/LICENSE.md)
+
+---
+
+## 4. - **The license "CC-BY-NC-4.0"**
 
 This license means that you may **use, share, and modify** the artwork **for non-commercial purposes only**, as long as you give **credit to the creator**.
 
@@ -73,7 +78,7 @@ You may **not** use the artwork commercially, such as:
 
 ---
 
-## 4. - Show metadata
+## 5. - Show metadata
 
 **IPTC and XMP format**
 ```bash
