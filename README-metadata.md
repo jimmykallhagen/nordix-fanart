@@ -21,7 +21,6 @@ exiftool -r \
 -XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
 -XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
-
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/image.png"
 ```
@@ -34,7 +33,6 @@ exiftool -r \
 -XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
 -XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
-
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/"
 ```
@@ -49,7 +47,6 @@ exiftool -r -overwrite_original \
 -XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
 -XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
-
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/image.png"
 ```
@@ -62,7 +59,6 @@ exiftool -r -overwrite_original \
 -XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
 -XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
-
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/"
 ```
