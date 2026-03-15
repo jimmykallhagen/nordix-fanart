@@ -18,7 +18,10 @@ Write metadata to a single image:
 exiftool -r \
 -XMP-dc:creator="Jimmy Källhagen" \
 -XMP-dc:rights="© 2026 Jimmy Källhagen" \
+-XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
+-XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
+
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/image.png"
 ```
@@ -28,7 +31,10 @@ Batch write:
 exiftool -r \
 -XMP-dc:creator="Jimmy Källhagen" \
 -XMP-dc:rights="© 2026 Jimmy Källhagen" \
+-XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
+-XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
+
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/"
 ```
@@ -40,7 +46,10 @@ Write metadata to a single image:
 exiftool -r -overwrite_original \
 -XMP-dc:creator="Jimmy Källhagen" \
 -XMP-dc:rights="© 2026 Jimmy Källhagen" \
+-XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
+-XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
+
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/image.png"
 ```
@@ -50,7 +59,10 @@ Batch write:
 exiftool -r -overwrite_original \
 -XMP-dc:creator="Jimmy Källhagen" \
 -XMP-dc:rights="© 2026 Jimmy Källhagen" \
+-XMP-xmpRights:Marked=True \
 -XMP-xmpRights:UsageTerms="CC-BY-NC-4.0" \
+-XMP-cc:License="https://creativecommons.org/licenses/by-nc/4.0/" \
+
 -XMP-dc:description="Nordix fanart Linux wallpaper" \
 "/path/to/your/image-folder/"
 ```
