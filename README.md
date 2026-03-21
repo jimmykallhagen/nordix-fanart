@@ -99,3 +99,7 @@ exiftool -b -XMP "image.png" > "image.xmp"
 ```
 
 ---
+![The-forbidden-power](https://github.com/jimmykallhagen/nordix-fanart/blob/main/the-forbidden-power-ZFS/the-forbidden-power-4k.png)
+![THe-puppetmaster-hand](https://github.com/jimmykallhagen/nordix-fanart/blob/main/Tux-the-puppet-master/puppet-master-windows.png)
+![GNU-shard-his-powrer-enhaced](https://github.com/jimmykallhagen/nordix-fanart/blob/main/GNU-Linux/Nordix-GNU-shared-its-power-and-Linux-was-born-4k.png)
+![GNU-shard-his-powrer-enhaced](https://github.com/jimmykallhagen/nordix-fanart/blob/main/GNU-Linux/Nordi-shader-enhanced-GNU-shared-its-power-and-Linux-was-born-4k.png)
