@@ -2,7 +2,6 @@
 
 - [**GNU Shared Its Power And Linux Was Born**](GNU-Linux)
 - [**The Forbidden Power - ZFS**](the-forbidden-power-ZFS)
-- [**Nordix Package Search**](https://github.com/jimmykallhagen/nordix-package-search)
 - [**Tux The Puppet Master**](Tux-the-puppet-master)
 ---
 
