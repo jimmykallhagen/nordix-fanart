@@ -1,7 +1,7 @@
 # Nordix Fanart/Wallpaper - Digital Artist Metadata Guide
 
 **1.**
--[**GNU Shared Its Power And Linux Was Born**](GNU-Linux)
+- [**GNU Shared Its Power And Linux Was Born**](GNU-Linux)
 ---
 
 ## 1. - **Install perl-image-exiftool.**
