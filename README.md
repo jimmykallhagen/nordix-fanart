@@ -1,6 +1,6 @@
 # Nordix Fanart/Wallpaper - Digital Artist Metadata Guide
 
-**1.** [**GNE/Linux**](GNU-Linux)
+**1.** [**GNU/Linux**](GNU-Linux)
 ---
 
 ## 1. - **Install perl-image-exiftool.**
