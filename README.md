@@ -1,7 +1,7 @@
 # Nordix Fanart/Wallpaper - Digital Artist Metadata Guide
 
 - [**GNU Shared Its Power And Linux Was Born**](GNU-Linux)
-- [**The Forbidden Power - ZFS**](The Forbidden Power - ZFS)
+- [**The Forbidden Power - ZFS**](the-forbidden-power-ZFS)
 
 ---
 
