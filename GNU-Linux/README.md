@@ -1,3 +1,5 @@
+# **GNU Shared Its Power And Linux Was Born**
+
 ![Nordix-GNU-shared-its-power-and-Linux-was-born-4k](Nordix-GNU-shared-its-power-and-Linux-was-born-4k.png)
 
 * _**Nordi-shader-enhanced**_
