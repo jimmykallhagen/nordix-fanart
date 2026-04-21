@@ -2,7 +2,7 @@
 
 - [**GNU Shared Its Power And Linux Was Born**](GNU-Linux)
 - [**The Forbidden Power - ZFS**](the-forbidden-power-ZFS)
-
+- [**Tux The Puppet Master**](Tux-the-puppet-master)
 ---
 
 ## 1. - **Install perl-image-exiftool.**
